@@ -1,0 +1,8 @@
+E:\PC\face_detect\ProjectOxford-ClientSDK\Face\Windows\thread_poll\bin\Debug\thread_poll.exe.config
+E:\PC\face_detect\ProjectOxford-ClientSDK\Face\Windows\thread_poll\bin\Debug\thread_poll.exe
+E:\PC\face_detect\ProjectOxford-ClientSDK\Face\Windows\thread_poll\bin\Debug\thread_poll.pdb
+E:\PC\face_detect\ProjectOxford-ClientSDK\Face\Windows\thread_poll\obj\Debug\thread_poll.Form1.resources
+E:\PC\face_detect\ProjectOxford-ClientSDK\Face\Windows\thread_poll\obj\Debug\thread_poll.Properties.Resources.resources
+E:\PC\face_detect\ProjectOxford-ClientSDK\Face\Windows\thread_poll\obj\Debug\async_process.csproj.GenerateResource.Cache
+E:\PC\face_detect\ProjectOxford-ClientSDK\Face\Windows\thread_poll\obj\Debug\thread_poll.exe
+E:\PC\face_detect\ProjectOxford-ClientSDK\Face\Windows\thread_poll\obj\Debug\thread_poll.pdb
